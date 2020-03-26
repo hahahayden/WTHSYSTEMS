@@ -1,0 +1,6 @@
+The top 5 words (out of 5) are: 
+        3 hello 
+        1 hao 
+        1 man 
+        1 ni 
+        1 sup 

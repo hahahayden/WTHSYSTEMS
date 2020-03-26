@@ -1,0 +1,28 @@
+ /*
+    while ((i = getchar(), i != EOF)) /* get the ASCII from the input but I need a string built from the input
+    {
+
+        input = i;
+    }
+    printf("%s", input);
+    */
+      int count3 = 0;
+    
+    for (count3 = 0; count3 < 132; count3++)
+    {
+        printf("%d", inputs[count3]);
+    }
+
+
+      char inputs[132] = {-1};
+
+      int checkBackSlash(int i, int backSlashCount, char x[])
+{
+    if (i == '\n')
+    {
+        backSlashCount += 1;
+    }
+    printf("h");
+    return 0;
+}
+ checkBackSlash(i, checkBackslash, inputs);

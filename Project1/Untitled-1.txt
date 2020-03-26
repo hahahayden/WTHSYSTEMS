@@ -1,0 +1,14 @@
+ /*
+    while ((i = getchar(), i != EOF)) /* get the ASCII from the input but I need a string built from the input
+    {
+
+        input = i;
+    }
+    printf("%s", input);
+    */
+    for (count3 = 0; count3 < 132; count3++)
+    {
+        printf("%c", inputs[count3]);
+    }
+
+      char inputs[132] = {-1};
